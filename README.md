@@ -270,7 +270,7 @@ Veja o arquivo [LICENSE](LICENSE) para os termos completos da licença comercial
 
 ## 🆘 Suporte
 
-- 📧 **Email:** [diego@treehousestudio.com.br]
+- 📧 **Discord:** [https://discord.gg/dyyVPsAek]
 
 Para reportar bugs ou solicitar features, abra um ticket no Discord com:
 1. Versão do Rust do servidor
